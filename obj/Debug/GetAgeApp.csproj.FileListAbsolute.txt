@@ -1,0 +1,8 @@
+C:\Users\Temo\Desktop\GetAgeApp\bin\Debug\GetAgeApp.exe.config
+C:\Users\Temo\Desktop\GetAgeApp\bin\Debug\GetAgeApp.exe
+C:\Users\Temo\Desktop\GetAgeApp\bin\Debug\GetAgeApp.pdb
+C:\Users\Temo\Desktop\GetAgeApp\obj\Debug\GetAgeApp.csproj.AssemblyReference.cache
+C:\Users\Temo\Desktop\GetAgeApp\obj\Debug\GetAgeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Temo\Desktop\GetAgeApp\obj\Debug\GetAgeApp.csproj.CoreCompileInputs.cache
+C:\Users\Temo\Desktop\GetAgeApp\obj\Debug\GetAgeApp.exe
+C:\Users\Temo\Desktop\GetAgeApp\obj\Debug\GetAgeApp.pdb
